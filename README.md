@@ -1,15 +1,12 @@
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachio-portfolio&layout=compact&title_color=81C7D4&border_color=81C7D4" />
+    <img align="center" alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachio-portfolio&layout=compact&title_color=81C7D4&border_color=A8E6CF">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&count_private=true&show_icons=true&theme=buefy&border_color=8F72DD" />
+    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&show_icons=true&theme=buefy&border_color=8F72DD">
   </a>
-</div>
-
-</br>
-<hr>
-
+</div><br>
 <p align="center">
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
@@ -25,6 +22,8 @@
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 </p>
+
+
 
 <!-- 
 **sachio-portfolio/sachio-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
