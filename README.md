@@ -1,9 +1,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=default" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachio-portfolio&layout=compact&title_color=81C7D4&border_color=81C7D4" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&count_private=true&show_icons=true&theme=buefy" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&count_private=true&show_icons=true&theme=buefy&border_color=8F72DD" />
 </a>
+
 
 
 <!-- 
