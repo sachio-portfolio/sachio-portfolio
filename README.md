@@ -4,7 +4,7 @@
     <img align="center" alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachio-portfolio&layout=compact&title_color=81C7D4&border_color=A8E6CF">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&show_icons=true&theme=buefy&border_color=8F72DD">
+    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&show_icons=true&theme=buefy&border_color=B481BB">
   </a>
 </div><br>
 <p align="center">
