@@ -1,10 +1,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachio-portfolio&layout=compact&title_color=81C7D4&border_color=A8E6CF">
+    <img align="center" alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachisuzuki&layout=compact&title_color=81C7D4&border_color=A8E6CF">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachio-portfolio&show_icons=true&theme=buefy&border_color=E4DEF7">
+    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=sachisuzuki&show_icons=true&theme=buefy&border_color=E4DEF7">
   </a>
 </div><br>
 <p align="center">
@@ -26,7 +26,7 @@
 
 
 <!-- 
-**sachio-portfolio/sachio-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sachisuzuki/sachisuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
